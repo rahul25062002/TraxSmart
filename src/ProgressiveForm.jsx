@@ -16,8 +16,8 @@ function ProgressiveForm() {
     setStage({ ...stage, stage2: false, stage1: true })
   };
   const [stage, setStage] = useState({
-    stage1: false,
-    stage2: true,
+    stage1: true,
+    stage2: false,
     stage3: false,
   })
   let initialState = {
