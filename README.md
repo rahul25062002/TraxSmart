@@ -1,5 +1,8 @@
 (https://github.com/rahul25062002/TraxSmart/assets/75932347/d69ba912-922e-4897-9e29-331824ec730e)
 
+
+![Screenshot from 2024-01-21 22-05-14](https://github.com/rahul25062002/TraxSmart/assets/75932347/84db6d62-e625-4f67-a49d-b41a262c5f51)
+
 # Netlify link  --https://traxsmart.netlify.app/
 
 # TraxSmart Form React Component
