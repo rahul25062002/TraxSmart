@@ -1,4 +1,4 @@
-# Progressive Form React Component
+# TraxSmart Form React Component
 
 ## Overview
 
