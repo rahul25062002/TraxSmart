@@ -91,8 +91,7 @@ A visual progress indicator is included at the top of the form, indicating the c
 Event handlers are implemented for input changes, bringing labels outside the input box when focused and returning them inside when blurred.
 
 ## Author
-
-[Your Name]
+Rahu Kumar
 
 ## License
 
